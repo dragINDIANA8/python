@@ -1,5 +1,5 @@
-a=int(input("Enter the value 1:"))
-b=int(input("Enter the value 2:"))
+a=int(input("ENTER THE VALUE 1:"))
+b=int(input("ENTER THE VALUE 2:"))
 c=input("Enter the Opr..:")
 if c=="+":
     print("Addition is",a+b)
